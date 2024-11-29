@@ -68,12 +68,3 @@ uma experiência de mais de 2 anos em projetos, automações e suporte. Dedicado
 </table>
 
 ---
-
-### ⚡ Estatísticas do GitHub
-
-![Suas estatísticas](https://github-readme-stats.vercel.app/api?username=AlexdeJesusFS&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexdeJesusFS&layout=compact&theme=radical)
-
----
-
-**Obrigado pela visita!** 😊 Fique à vontade para explorar meus repositórios ou entrar em contato comigo!
