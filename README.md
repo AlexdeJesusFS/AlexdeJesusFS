@@ -1,7 +1,6 @@
 # Olá! 👋 Bem-vindo ao meu GitHub
 
-Sou um profissional com 𝗺𝗮𝗶𝘀 𝗱𝗲 𝟮 𝗮𝗻𝗼𝘀 𝗱𝗲 𝗲𝘅𝗽𝗲𝗿𝗶𝗲̂𝗻𝗰𝗶𝗮 em desenvolvimento, atuando em 𝗶𝗻𝘁𝗲𝗴𝗿𝗮𝗰̧𝗼̃𝗲𝘀 e 𝗮𝘂𝘁𝗼𝗺𝗮𝗰̧𝗼̃𝗲𝘀 com 𝗣𝘆𝘁𝗵𝗼𝗻, com foco em otimizar processos internos e resolver desafios técnicos. Meu trabalho inclui o gerenciamento de chamado técnicos e o cumprimento de 𝗦𝗟𝗔𝘀. Estou familiarizado com 𝗺𝗲𝘁𝗼𝗱𝗼𝗹𝗼𝗴𝗶𝗮𝘀 𝗮́𝗴𝗲𝗶𝘀, como 𝗦𝗰𝗿𝘂𝗺 e 𝗞𝗮𝗻𝗯𝗮𝗻, além de 𝗽𝗿𝗮́𝘁𝗶𝗰𝗮𝘀 𝗱𝗼 𝗣𝗠𝗕𝗢𝗞 𝗽𝗮𝗿𝗮 𝗴𝗲𝗿𝗲𝗻𝗰𝗶𝗮𝗿 𝗽𝗿𝗼𝗷𝗲𝘁𝗼𝘀. Já trabalhei em equipe cumprindo metas por meio do uso de OKR's e feedbacks contínuos sempre buscando melhorar o desempenho individual e coletivo.
-
+Sou um profissional com mais de 2 anos de experiência em desenvolvimento, atuando em integrações e automações com Python. Sempre estudando e praticando consolidando dessa forma o conhecimento e me divertindo com as letrinhas coloridas.
 ---
 
 ## 🚀 Tecnologias e Ferramentas
@@ -52,9 +51,8 @@ Sou um profissional com 𝗺𝗮𝗶𝘀 𝗱𝗲 𝟮 𝗮𝗻𝗼𝘀 𝗱𝗲
 
 ## 🌱 O que estou aprendendo atualmente
 
-- [**Desenvolvimento Full-Stack** no Bootcamp da XP Inc. na **DIO**](https://github.com/AlexdeJesusFS/Bootcamp-XP-Inc.-Full-Stack-Developer)
-- **Práticas de Clean Code** e padrões de design para escrever código mais eficiente
-
+- **curso.dev** aprendendo mais sobre programação desde o começo até o final.
+- **Front-end** praticando e aprendendo com React, JS, TS e muito mais.
 ---
 
 ## 📫 Entre em Contato!
